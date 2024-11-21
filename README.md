@@ -1,2 +1,2 @@
-# OIPZ
-OIPZ laboratory work №5
+# OIPZ laboratory work №5
+TESTING OF CODE
